@@ -85,13 +85,6 @@ That includes many modern self-improving agent patterns such as:
 
 The core claim of the paper is that **harness-bounded self-improvement is structurally incomplete** whenever context is a major source of uncertainty and failure.
 
-## Repository Contents
-
-- `paper.pdf` – final compiled paper
-- `main.tex` – LaTeX source
-- `neurips_2023.sty` – NeurIPS style file used for formatting
-- `README.md` – repository overview
-
 ## Why this matters
 
 There is growing excitement around self-improving agents and recursive self-improvement as a path toward increasingly autonomous systems. But improving the harness is not the same as improving the full system.
@@ -118,5 +111,5 @@ If you want to reference this work, please cite the repository or the paper dire
 **Debraj Bandyopadhyay**  
 Litmus AI
 
-**Sanjay Srivastava**  
+**Sandali Srivastava**  
 Litmus AI
